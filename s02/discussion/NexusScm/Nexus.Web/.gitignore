@@ -1,0 +1,25 @@
+# Build results
+/bin/
+/obj/
+
+# User-specific files
+*.user
+*.suo
+.vs/
+
+# NuGet packages
+/packages/
+
+# Publish profiles
+*.publish.xml
+*.pubxml
+*.PublishProfiles/
+
+# Logs and DB
+*.log
+*.mdf
+*.dbmdl
+
+# Test results
+TestResults/
+*.trx
