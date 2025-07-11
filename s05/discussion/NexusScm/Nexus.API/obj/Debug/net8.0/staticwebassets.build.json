@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "JkCD3/EQJVbTt8Dq357/DkySfdIdkKA5q8IVYB+rrMM=",
+  "Source": "Nexus.API",
+  "BasePath": "_content/Nexus.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guevarpa\\Documents\\individual-guevarra-paulo\\s05\\activity\\NexusScm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D6D7EC-1628-448E-81A7-DF03F60AA35D}|Nexus.API\\Nexus.API.csproj|c:\\users\\guevarpa\\documents\\individual-guevarra-paulo\\s05\\activity\\nexusscm\\nexus.api\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D6D7EC-1628-448E-81A7-DF03F60AA35D}|Nexus.API\\Nexus.API.csproj|solutionrelative:nexus.api\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D6D7EC-1628-448E-81A7-DF03F60AA35D}|Nexus.API\\Nexus.API.csproj|c:\\users\\guevarpa\\documents\\individual-guevarra-paulo\\s05\\activity\\nexusscm\\nexus.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D6D7EC-1628-448E-81A7-DF03F60AA35D}|Nexus.API\\Nexus.API.csproj|solutionrelative:nexus.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D6D7EC-1628-448E-81A7-DF03F60AA35D}|Nexus.API\\Nexus.API.csproj|c:\\users\\guevarpa\\documents\\individual-guevarra-paulo\\s05\\activity\\nexusscm\\nexus.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0D6D7EC-1628-448E-81A7-DF03F60AA35D}|Nexus.API\\Nexus.API.csproj|solutionrelative:nexus.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D6D7EC-1628-448E-81A7-DF03F60AA35D}|Nexus.API\\Nexus.API.csproj|c:\\users\\guevarpa\\documents\\individual-guevarra-paulo\\s05\\activity\\nexusscm\\nexus.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D6D7EC-1628-448E-81A7-DF03F60AA35D}|Nexus.API\\Nexus.API.csproj|solutionrelative:nexus.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SuppliersController.cs",
+              "DocumentMoniker": "C:\\Users\\guevarpa\\Documents\\individual-guevarra-paulo\\s05\\activity\\NexusScm\\Nexus.API\\Controllers\\SuppliersController.cs",
+              "RelativeDocumentMoniker": "Nexus.API\\Controllers\\SuppliersController.cs",
+              "ToolTip": "C:\\Users\\guevarpa\\Documents\\individual-guevarra-paulo\\s05\\activity\\NexusScm\\Nexus.API\\Controllers\\SuppliersController.cs*",
+              "RelativeToolTip": "Nexus.API\\Controllers\\SuppliersController.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowC0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T02:07:01.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\guevarpa\\Documents\\individual-guevarra-paulo\\s05\\activity\\NexusScm\\Nexus.API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Nexus.API\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\guevarpa\\Documents\\individual-guevarra-paulo\\s05\\activity\\NexusScm\\Nexus.API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Nexus.API\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T01:26:09.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\guevarpa\\Documents\\individual-guevarra-paulo\\s05\\activity\\NexusScm\\Nexus.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Nexus.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\guevarpa\\Documents\\individual-guevarra-paulo\\s05\\activity\\NexusScm\\Nexus.API\\appsettings.json",
+              "RelativeToolTip": "Nexus.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-11T01:16:40.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guevarpa\\Documents\\individual-guevarra-paulo\\s05\\activity\\NexusScm\\Nexus.API\\Program.cs",
+              "RelativeDocumentMoniker": "Nexus.API\\Program.cs",
+              "ToolTip": "C:\\Users\\guevarpa\\Documents\\individual-guevarra-paulo\\s05\\activity\\NexusScm\\Nexus.API\\Program.cs",
+              "RelativeToolTip": "Nexus.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T01:16:35.159Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
