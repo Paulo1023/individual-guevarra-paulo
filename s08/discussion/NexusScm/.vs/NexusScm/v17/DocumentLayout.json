@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s08\\discussion\\NexusScm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5966232E-820E-4165-9338-ADD79999F8E3}|Nexus.Api.Tests\\Nexus.Api.Tests.csproj|c:\\users\\guevarpa\\desktop\\individual-guevarra-paulo\\s08\\discussion\\nexusscm\\nexus.api.tests\\supplierscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5966232E-820E-4165-9338-ADD79999F8E3}|Nexus.Api.Tests\\Nexus.Api.Tests.csproj|solutionrelative:nexus.api.tests\\supplierscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D6D7EC-1628-448E-81A7-DF03F60AA35D}|Nexus.API\\Nexus.API.csproj|c:\\users\\guevarpa\\desktop\\individual-guevarra-paulo\\s08\\discussion\\nexusscm\\nexus.api\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D6D7EC-1628-448E-81A7-DF03F60AA35D}|Nexus.API\\Nexus.API.csproj|solutionrelative:nexus.api\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SuppliersController.cs",
+              "DocumentMoniker": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s08\\discussion\\NexusScm\\Nexus.API\\Controllers\\SuppliersController.cs",
+              "RelativeDocumentMoniker": "Nexus.API\\Controllers\\SuppliersController.cs",
+              "ToolTip": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s08\\discussion\\NexusScm\\Nexus.API\\Controllers\\SuppliersController.cs",
+              "RelativeToolTip": "Nexus.API\\Controllers\\SuppliersController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwDMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T02:42:51.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SuppliersControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s08\\discussion\\NexusScm\\Nexus.Api.Tests\\SuppliersControllerTests.cs",
+              "RelativeDocumentMoniker": "Nexus.Api.Tests\\SuppliersControllerTests.cs",
+              "ToolTip": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s08\\discussion\\NexusScm\\Nexus.Api.Tests\\SuppliersControllerTests.cs",
+              "RelativeToolTip": "Nexus.Api.Tests\\SuppliersControllerTests.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:21:47.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
