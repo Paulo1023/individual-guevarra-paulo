@@ -32,9 +32,10 @@
               "RelativeDocumentMoniker": "Nexus.API\\Controllers\\SuppliersController.cs",
               "ToolTip": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s08\\activity\\NexusScm\\Nexus.API\\Controllers\\SuppliersController.cs",
               "RelativeToolTip": "Nexus.API\\Controllers\\SuppliersController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAIwDMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwDAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T02:42:51.854Z"
+              "WhenOpened": "2025-07-16T02:42:51.854Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -44,7 +45,7 @@
               "RelativeDocumentMoniker": "Nexus.Api.Tests\\SuppliersControllerTests.cs",
               "ToolTip": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s08\\activity\\NexusScm\\Nexus.Api.Tests\\SuppliersControllerTests.cs",
               "RelativeToolTip": "Nexus.Api.Tests\\SuppliersControllerTests.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAADwv0oAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-16T01:21:47.125Z",
               "EditorCaption": ""

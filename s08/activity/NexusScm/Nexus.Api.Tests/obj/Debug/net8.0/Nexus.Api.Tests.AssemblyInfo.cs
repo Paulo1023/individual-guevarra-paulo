@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nexus.Api.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99de41271748ea50f5b10e1bdae301d1991229da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7fb78cd86153efac3a16023de2e4707f99ba44af")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nexus.Api.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nexus.Api.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

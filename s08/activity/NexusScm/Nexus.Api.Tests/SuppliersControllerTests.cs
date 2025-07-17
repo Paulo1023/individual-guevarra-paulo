@@ -66,6 +66,15 @@ namespace Nexus.Api.Tests
         {
             var dbContext = GetDBContext();
 
+            //var testSupplier = new Supplier
+            //{
+            //    Id = 99,
+            //    Name = "Test Corporation",
+            //    Email = "test@corporation.com"
+            //};
+            //dbContext.Suppliers.Add(testSupplier);
+            //await dbContext.SaveChangesAsync();
+
             int nonExistingId = 99;
 
             var controller = new SuppliersController(dbContext);

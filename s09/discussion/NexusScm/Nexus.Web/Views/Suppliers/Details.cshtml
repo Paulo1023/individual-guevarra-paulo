@@ -1,0 +1,25 @@
+﻿@model Nexus.Core.Supplier;
+
+@{
+    ViewData["Title"] = "Supplier Details";
+}
+
+
+<h1>Supplier Details</h1>
+</hr>
+
+<div>
+    <dl class="row">
+        <dt class="col-sm-2">Name</dt>
+        <dd class="col-sim-10">@Html.DisplayFor(Model => Model.Name)</dd>
+
+        <dt class="col-sm-2">Contact Person</dt>
+        <dd class="col-sim-10">@Html.DisplayFor(Model => Model.ContactPerson)</dd>
+
+        <dt class="col-sm-2">Email</dt>
+        <dd class="col-sim-10">@Html.DisplayFor(Model => Model.Email)</dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
