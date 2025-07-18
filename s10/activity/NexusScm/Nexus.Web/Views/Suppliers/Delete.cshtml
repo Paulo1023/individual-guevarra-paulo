@@ -1,0 +1,39 @@
+﻿@model Nexus.Core.Supplier
+
+@{
+    ViewData["Title"] = "Delete Supplier";
+}
+
+<h1>Delete Supplier</h1>
+<h3 class="text-danger">Are you sure you want to delete this?</h3>
+<h3>Supplier Details</h3>
+<hr />
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Delete">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            @* We need to include the ID in the form, but it shouldn't be visible to the user *@
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group mb-3">
+                <label asp-for="Name" class="control-label fw-bold"></label>
+                <label asp-for="Name" class="control-label text-end">: @Model.Name</label>
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="ContactPerson" class="control-label fw-bold"></label>
+                <label asp-for="ContactPerson" class="control-label">: @Model.ContactPerson</label>
+                <span asp-validation-for="ContactPerson" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="Email" class="control-label fw-bold"></label>
+                <label asp-for="Email" class="control-label">: @Model.Email</label>
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Delete" class="btn btn-danger" />
+                <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>

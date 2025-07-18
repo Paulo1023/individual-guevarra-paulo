@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Nexus.API\\Nexus.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Nexus.Web\\Nexus.Web.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

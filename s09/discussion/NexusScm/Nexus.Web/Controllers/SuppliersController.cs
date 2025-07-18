@@ -4,10 +4,12 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Identity.Client.Kerberos;
 using Nexus.Core;
 using Nexus.Web.Data;
+using Nexus.Web.Filters;
 using System.Text.Json;
 
 namespace Nexus.Web.Controllers
 {
+    [SessionAuthorize]
     public class SuppliersController : Controller
     {
         //private readonly ApplicationDbContext _context; //store context object from ApplicationDbContext this will give access to the tables

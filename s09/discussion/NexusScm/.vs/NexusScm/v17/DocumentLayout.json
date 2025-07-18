@@ -3,52 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s09\\discussion\\NexusScm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA870063-3EB0-4958-A2F6-69103DFEAA0D}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\guevarpa\\desktop\\individual-guevarra-paulo\\s09\\discussion\\nexusscm\\nexus.web\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA870063-3EB0-4958-A2F6-69103DFEAA0D}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DA870063-3EB0-4958-A2F6-69103DFEAA0D}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\guevarpa\\desktop\\individual-guevarra-paulo\\s09\\discussion\\nexusscm\\nexus.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA870063-3EB0-4958-A2F6-69103DFEAA0D}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA870063-3EB0-4958-A2F6-69103DFEAA0D}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\guevarpa\\desktop\\individual-guevarra-paulo\\s09\\discussion\\nexusscm\\nexus.web\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DA870063-3EB0-4958-A2F6-69103DFEAA0D}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DA870063-3EB0-4958-A2F6-69103DFEAA0D}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\guevarpa\\desktop\\individual-guevarra-paulo\\s09\\discussion\\nexusscm\\nexus.web\\filters\\sessionauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA870063-3EB0-4958-A2F6-69103DFEAA0D}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\filters\\sessionauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA870063-3EB0-4958-A2F6-69103DFEAA0D}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\guevarpa\\desktop\\individual-guevarra-paulo\\s09\\discussion\\nexusscm\\nexus.web\\views\\suppliers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DA870063-3EB0-4958-A2F6-69103DFEAA0D}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\views\\suppliers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DA870063-3EB0-4958-A2F6-69103DFEAA0D}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\guevarpa\\desktop\\individual-guevarra-paulo\\s09\\discussion\\nexusscm\\nexus.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA870063-3EB0-4958-A2F6-69103DFEAA0D}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0D6D7EC-1628-448E-81A7-DF03F60AA35D}|Nexus.API\\Nexus.API.csproj|c:\\users\\guevarpa\\desktop\\individual-guevarra-paulo\\s09\\discussion\\nexusscm\\nexus.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D0D6D7EC-1628-448E-81A7-DF03F60AA35D}|Nexus.API\\Nexus.API.csproj|solutionrelative:nexus.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0D6D7EC-1628-448E-81A7-DF03F60AA35D}|Nexus.API\\Nexus.API.csproj|c:\\users\\guevarpa\\desktop\\individual-guevarra-paulo\\s09\\discussion\\nexusscm\\nexus.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0D6D7EC-1628-448E-81A7-DF03F60AA35D}|Nexus.API\\Nexus.API.csproj|solutionrelative:nexus.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0D6D7EC-1628-448E-81A7-DF03F60AA35D}|Nexus.API\\Nexus.API.csproj|c:\\users\\guevarpa\\desktop\\individual-guevarra-paulo\\s09\\discussion\\nexusscm\\nexus.api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0D6D7EC-1628-448E-81A7-DF03F60AA35D}|Nexus.API\\Nexus.API.csproj|solutionrelative:nexus.api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0D6D7EC-1628-448E-81A7-DF03F60AA35D}|Nexus.API\\Nexus.API.csproj|c:\\users\\guevarpa\\desktop\\individual-guevarra-paulo\\s09\\discussion\\nexusscm\\nexus.api\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0D6D7EC-1628-448E-81A7-DF03F60AA35D}|Nexus.API\\Nexus.API.csproj|solutionrelative:nexus.api\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA870063-3EB0-4958-A2F6-69103DFEAA0D}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\guevarpa\\desktop\\individual-guevarra-paulo\\s09\\discussion\\nexusscm\\nexus.web\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA870063-3EB0-4958-A2F6-69103DFEAA0D}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DA870063-3EB0-4958-A2F6-69103DFEAA0D}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\guevarpa\\desktop\\individual-guevarra-paulo\\s09\\discussion\\nexusscm\\nexus.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA870063-3EB0-4958-A2F6-69103DFEAA0D}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0D6D7EC-1628-448E-81A7-DF03F60AA35D}|Nexus.API\\Nexus.API.csproj|c:\\users\\guevarpa\\desktop\\individual-guevarra-paulo\\s09\\discussion\\nexusscm\\nexus.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0D6D7EC-1628-448E-81A7-DF03F60AA35D}|Nexus.API\\Nexus.API.csproj|solutionrelative:nexus.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA870063-3EB0-4958-A2F6-69103DFEAA0D}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\guevarpa\\desktop\\individual-guevarra-paulo\\s09\\discussion\\nexusscm\\nexus.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DA870063-3EB0-4958-A2F6-69103DFEAA0D}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA870063-3EB0-4958-A2F6-69103DFEAA0D}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\guevarpa\\desktop\\individual-guevarra-paulo\\s09\\discussion\\nexusscm\\nexus.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA870063-3EB0-4958-A2F6-69103DFEAA0D}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,158 +38,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s09\\discussion\\NexusScm\\Nexus.API\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Nexus.API\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s09\\discussion\\NexusScm\\Nexus.API\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Nexus.API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T03:49:14.077Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TokenService.cs",
-              "DocumentMoniker": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s09\\discussion\\NexusScm\\Nexus.API\\Services\\TokenService.cs",
-              "RelativeDocumentMoniker": "Nexus.API\\Services\\TokenService.cs",
-              "ToolTip": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s09\\discussion\\NexusScm\\Nexus.API\\Services\\TokenService.cs",
-              "RelativeToolTip": "Nexus.API\\Services\\TokenService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T03:31:11.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ITokenService.cs",
-              "DocumentMoniker": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s09\\discussion\\NexusScm\\Nexus.API\\Services\\ITokenService.cs",
-              "RelativeDocumentMoniker": "Nexus.API\\Services\\ITokenService.cs",
-              "ToolTip": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s09\\discussion\\NexusScm\\Nexus.API\\Services\\ITokenService.cs",
-              "RelativeToolTip": "Nexus.API\\Services\\ITokenService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T03:49:05.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s09\\discussion\\NexusScm\\Nexus.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Nexus.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s09\\discussion\\NexusScm\\Nexus.API\\appsettings.json",
-              "RelativeToolTip": "Nexus.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-17T03:44:59.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s09\\discussion\\NexusScm\\Nexus.API\\Program.cs",
-              "RelativeDocumentMoniker": "Nexus.API\\Program.cs",
-              "ToolTip": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s09\\discussion\\NexusScm\\Nexus.API\\Program.cs",
-              "RelativeToolTip": "Nexus.API\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T03:44:31.924Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s09\\discussion\\NexusScm\\Nexus.Web\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Nexus.Web\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s09\\discussion\\NexusScm\\Nexus.Web\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Nexus.Web\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-17T03:44:18.166Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s09\\discussion\\NexusScm\\Nexus.Web\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Nexus.Web\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s09\\discussion\\NexusScm\\Nexus.Web\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Nexus.Web\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T03:40:49.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s09\\discussion\\NexusScm\\Nexus.Web\\Program.cs",
-              "RelativeDocumentMoniker": "Nexus.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s09\\discussion\\NexusScm\\Nexus.Web\\Program.cs",
-              "RelativeToolTip": "Nexus.Web\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T03:39:30.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s09\\discussion\\NexusScm\\Nexus.Web\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Nexus.Web\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s09\\discussion\\NexusScm\\Nexus.Web\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Nexus.Web\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T03:27:41.602Z",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s09\\discussion\\NexusScm\\Nexus.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Nexus.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s09\\discussion\\NexusScm\\Nexus.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Nexus.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T00:43:26.125Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s09\\discussion\\NexusScm\\Nexus.Web\\Views\\Suppliers\\Create.cshtml",
-              "RelativeDocumentMoniker": "Nexus.Web\\Views\\Suppliers\\Create.cshtml",
-              "ToolTip": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s09\\discussion\\NexusScm\\Nexus.Web\\Views\\Suppliers\\Create.cshtml",
-              "RelativeToolTip": "Nexus.Web\\Views\\Suppliers\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-17T02:52:15.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "SuppliersController.cs",
               "DocumentMoniker": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s09\\discussion\\NexusScm\\Nexus.Web\\Controllers\\SuppliersController.cs",
               "RelativeDocumentMoniker": "Nexus.Web\\Controllers\\SuppliersController.cs",
               "ToolTip": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s09\\discussion\\NexusScm\\Nexus.Web\\Controllers\\SuppliersController.cs",
               "RelativeToolTip": "Nexus.Web\\Controllers\\SuppliersController.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAwwEMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T02:34:29.061Z",
+              "WhenOpened": "2025-07-18T00:41:24.715Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s09\\discussion\\NexusScm\\Nexus.Web\\Views\\Auth\\Login.cshtml",
-              "RelativeDocumentMoniker": "Nexus.Web\\Views\\Auth\\Login.cshtml",
-              "ToolTip": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s09\\discussion\\NexusScm\\Nexus.Web\\Views\\Auth\\Login.cshtml",
-              "RelativeToolTip": "Nexus.Web\\Views\\Auth\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-17T01:35:14.468Z",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s09\\discussion\\NexusScm\\Nexus.Web\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Nexus.Web\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s09\\discussion\\NexusScm\\Nexus.Web\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Nexus.Web\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA6wC8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T00:37:19.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionAuthorizeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s09\\discussion\\NexusScm\\Nexus.Web\\Filters\\SessionAuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "Nexus.Web\\Filters\\SessionAuthorizeAttribute.cs",
+              "ToolTip": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s09\\discussion\\NexusScm\\Nexus.Web\\Filters\\SessionAuthorizeAttribute.cs",
+              "RelativeToolTip": "Nexus.Web\\Filters\\SessionAuthorizeAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T00:30:11.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s09\\discussion\\NexusScm\\Nexus.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Nexus.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\guevarpa\\Desktop\\individual-guevarra-paulo\\s09\\discussion\\NexusScm\\Nexus.Web\\Program.cs",
+              "RelativeToolTip": "Nexus.Web\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T00:22:41.476Z",
               "EditorCaption": ""
             }
           ]
